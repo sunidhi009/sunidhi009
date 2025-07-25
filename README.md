@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a versatile and detail-oriented M.Tech student in Computer Science and Engineering at IIIT Guwahati, with prior experience as a Data Analyst at Arcadia (Urjanet Energy Solutions).I specialize in software development, data analysis, and full-stack web projects. <br><br>Proficient in Python, C/C++, HTML , CSS , PHP , MySQL , and familiar with data structures and database management systems.<br><br>🔭 Currently working on a EV Charging Station Smart Planner website.<br>📚Brushing up on Data Structures and DBMS.<br>🎯Goals: Full stack developer and Best coder in my academic circle.<br>🎲 Fun fact: Clicks when eyes got stuck in beauty also Caries Big Self Obsessed Personality.<br><br>
+👩‍💻 Versatile and detail-oriented M.Tech student in Computer Science and Engineering at IIIT Guwahati, with prior experience as a Data Analyst at Arcadia (Urjanet Energy Solutions). Skilled in software development, data analysis, and full-stack web projects. <br><br>Proficient in Python, C/C++, HTML , CSS , PHP , MySQL , and familiar with data structures and database management systems.<br><br>🔭 🔭 Currently building an EV Charging Station Smart Planner website.<br>📚Brushing up on Data Structures and DBMS.<br>🎯 Aspiring full-stack developer | Want to be the best coder in my circle. <br>🎲 Fun fact: Currently debugging life and code — success rate improving.<br><br>
 
 
 ## 🌐 Socials:
